@@ -16,5 +16,6 @@
   },
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "keywords": []
 }
